@@ -1,5 +1,6 @@
 <h1 align="center">Broccoli Brains ReadMe</h1>
 <p align="center">
+  The World's First Mind Controlled Gaming Company
 </p>
 
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
