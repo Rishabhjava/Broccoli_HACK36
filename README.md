@@ -24,8 +24,6 @@ However, If channeled properly, this energy is a superpower! The root cause of t
   <a href="https://drive.google.com/file/d/1OvPrRpFz6GuhBmQT08I2pe3hwEVGVJ2C/view?usp=sharing"> Broccoli presentation link </a>
   
   
-## Table of Contents:
-
 ## Technology Stack:
   1) Processing
   2) C#
