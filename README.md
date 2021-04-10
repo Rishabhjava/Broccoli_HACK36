@@ -1,4 +1,4 @@
-<h1 align="center">Broccoli Brains Readme</h1>
+<h1 align="center">Broccoli Brains ReadMe</h1>
 <p align="center">
 </p>
 
